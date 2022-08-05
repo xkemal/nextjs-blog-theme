@@ -19,6 +19,8 @@ A customizable blog starter using:
 
 [Click here to watch the template walkthrough!](https://www.youtube.com/watch?v=63QZHs259dY)
 
+## LEDUKAN TERBARU
+
 ## Table of Contents:
 
 - [Getting Started](#getting-started)
